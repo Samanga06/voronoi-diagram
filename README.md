@@ -2,6 +2,16 @@
 
 A C++ implementation of **Fortune's Sweep Line Algorithm** for constructing 2D Voronoi diagrams.
 
+## Demo
+
+<p align="center">
+  <img src="voroni.gif" width="700">
+</p>
+
+<p align="center">
+  Voronoi diagram generated using Fortune's sweep-line algorithm.
+</p>
+
 The project implements the Voronoi construction algorithm from scratch using computational geometry techniques, an event-driven sweep line, and a dynamically maintained beach-line data structure. It also supports efficient **Voronoi cell traversal for nearest-neighbor queries**.
 
 ## What is Voronoi Diagram
