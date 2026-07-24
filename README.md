@@ -95,7 +95,7 @@ voronoi-diagram/
 └── README.md
 ```
 
-## Core Data Structures
+## Data Structures Used
 
 ### Event Queue
 
@@ -201,10 +201,6 @@ Each event requires operations on the event queue and beach-line structure, givi
 Time:  O(n log n)
 Space: O(n)
 ```
-
-## Demo
-
-A demonstration of the Voronoi construction is available in `ani.mp4`.
 
 ---
 
